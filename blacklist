@@ -1,9 +1,3 @@
-# blacklist
-#
-# The contents of this file (containing a listing of additional domains in
-# 'hosts' file format) are appended to the unified hosts file during the
-# update process. For example, uncomment the following line to block
-# 'example.com'
 
 :127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -20,8 +14,6 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-
-# 0.0.0.0 example.com
 
 0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 analyticsengine.s3.amazonaws.com
